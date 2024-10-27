@@ -76,7 +76,9 @@ The objective of this project is to craft a comprehensive sales and financial re
    
 13.	Gross Margin % by Quarters (Sub-jones) Report: Analyzed gross margin percentages to understand profitability trends.
 
-    
+
+![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Screenshot%202024-10-27%20084656.png)
+
 ### Conclusion
 This project demonstrates my ability to leverage Excel's powerful features for data analysis and financial reporting. Through effective data cleaning, modeling, and visualization, I provided actionable insights that can drive strategic improvements in sales and financial performance.
 
