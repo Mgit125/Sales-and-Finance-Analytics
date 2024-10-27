@@ -46,8 +46,46 @@ The objective of this project is to craft a comprehensive sales and financial re
       Applied conditional formatting techniques to enhance data presentation, showcasing trend identification.
 
 
+### Key Insights & Reports Generated
 
-![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Screenshot%202024-10-27%20074317.png)
+1.	Customer Net Sales Performance Report: Analyzed customer performance to identify trends and opportunities for growth.
+   
+2.	Market Performance vs. Target Performance: Compared actual sales against targets to measure success.
+   
+3.	Top 10 Products Identification: Highlighted the best-performing products to inform inventory and marketing strategies.
+
+   ![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Screenshot%202024-10-27%20074317.png)
+	
+5.	Division-Level Report: Analyzed performance at the division level to understand specific market segments.
+	
+6.	Top 5 & Bottom 5 Selling Products: Identified the best and worst sellers to adjust marketing and sales strategies accordingly.
+   
+7.	New Products Selling: Analyzed the sales performance of newly introduced products.
+   
+8.	Top 10 Selling Countries: Identified the highest-grossing countries to inform global marketing strategies.
+    
+9.	Country-wise Quarterly Report: Generated reports detailing quarterly performance by country.
+    
+10.	Profit & Loss Report by Fiscal Year: Provided an overview of financial health over the fiscal years.
+	
+11.	P&L Quarterly Report: Delivered insights into quarterly profits and losses.
+   
+12.	P&L Quarterly-wise Report with Net Sales Comparison: Compared quarterly net sales against profit and loss to assess financial performance.
+   
+13.	Gross Margin % by Quarters (Sub-jones) Report: Analyzed gross margin percentages to understand profitability trends.
+
+    
+### Conclusion
+This project demonstrates my ability to leverage Excel's powerful features for data analysis and financial reporting. Through effective data cleaning, modeling, and visualization, I provided actionable insights that can drive strategic improvements in sales and financial performance.
+
+
+
+
+
+
+
+
+
 
 
 
