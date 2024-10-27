@@ -21,29 +21,29 @@ The objective of this project is to craft a comprehensive sales and financial re
 
 1.	ETL (Extract, Transform, Load):
    
-o	Handled data integrity by addressing missing values, duplicates, and spelling errors.
+      Handled data integrity by addressing missing values, duplicates, and spelling errors.
 
-o	Loaded CSV files into Power Query for preprocessing before integrating them into Power Pivot.
+   	Loaded CSV files into Power Query for preprocessing before integrating them into Power Pivot.
 
 2.	Data Modeling:
    
-o	Connected all tables using a Star Schema.
+      Connected all tables using a Star Schema.
 
-o	Crafted a dynamic dim_date table for comprehensive time analysis, including AtliQ Hardware's fiscal year cycle.
+      Crafted a dynamic dim_date table for comprehensive time analysis, including AtliQ Hardware's fiscal year cycle.
 
 4.	Pivot Table and Power Pivot:
    
-o	Integrated the data model with Pivot Tables for quick data analysis.
+      Integrated the data model with Pivot Tables for quick data analysis.
 
-o	Utilized Power Pivot to create custom measures and columns, optimizing data transformation via Power Query.
+      Utilized Power Pivot to create custom measures and columns, optimizing data transformation via Power Query.
 
 6.	DAX (Data Analysis Expressions):
    
-o	Generated over 7 insightful measures, including net sales and quarterly sales, to provide deeper insights into financial performance.
+      Generated over 7 insightful measures, including net sales and quarterly sales, to provide deeper insights into financial performance.
 
 8.	Conditional Formatting:
    
-o	Applied conditional formatting techniques to enhance data presentation, showcasing trend identification.
+      Applied conditional formatting techniques to enhance data presentation, showcasing trend identification.
 
 
 
