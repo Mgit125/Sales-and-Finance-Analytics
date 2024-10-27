@@ -3,6 +3,10 @@
 
 # Sales and Finance  Analytics
 
+   ![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Screenshot%202024-10-27%20074317.png)
+
+   ![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Screenshot%202024-10-27%20074639.png)
+
 ### Project Overview
 This project focuses on comprehensive sales and finance analytics for AtliQ Hardware, a global supplier of computer hardware and components. The primary goal is to optimize sales strategies, identify growth opportunities, and enhance financial decision-making capabilities by analyzing market performance for the years 2019, 2020, and 2021.
 
@@ -55,8 +59,6 @@ The objective of this project is to craft a comprehensive sales and financial re
 2.	Market Performance vs. Target Performance: Compared actual sales against targets to measure success.
    
 3.	Top 10 Products Identification: Highlighted the best-performing products to inform inventory and marketing strategies.
-
-   ![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Screenshot%202024-10-27%20074317.png)
 	
 5.	Division-Level Report: Analyzed performance at the division level to understand specific market segments.
 	
