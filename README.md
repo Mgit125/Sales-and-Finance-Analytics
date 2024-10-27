@@ -49,6 +49,8 @@ The objective of this project is to craft a comprehensive sales and financial re
 ### Key Insights & Reports Generated
 
 1.	Customer Net Sales Performance Report: Analyzed customer performance to identify trends and opportunities for growth.
+
+   ![logo](https://github.com/Mgit125/Sales-and-Finance-Analytics/blob/main/Customer%20NetSales%20Perofrmance%20Report-1.pdf)
    
 2.	Market Performance vs. Target Performance: Compared actual sales against targets to measure success.
    
